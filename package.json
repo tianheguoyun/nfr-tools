@@ -1,0 +1,20 @@
+{
+  "name": "nfr-tools",
+  "version": "0.0.1",
+  "description": "A node.js tools for NFR data process automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TiChain",
+    "NFR",
+    "Tools"
+  ],
+  "author": "yinhaibo",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "xlsx": "^0.18.5"
+  }
+}
